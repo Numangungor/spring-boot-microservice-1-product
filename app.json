@@ -1,0 +1,9 @@
+{
+  "name": "test-springbootmicro-app",
+  "buildpacks": [
+    {
+      "url": "heroku/gradle"
+    }
+  ]
+
+}
